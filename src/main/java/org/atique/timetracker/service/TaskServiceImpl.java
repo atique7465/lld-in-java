@@ -28,6 +28,7 @@ public class TaskServiceImpl implements TaskService {
     public void init() throws IOException {
         fileUtil.truncateFile();
         Logger.log("Time Tracker file cleared");
+        initialRefresh = false;
     }
 
     @Override
