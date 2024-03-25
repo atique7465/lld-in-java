@@ -5,7 +5,7 @@ A command-line application that can be used to track time spent on different tas
 
 ### Features
 
-- Ability to create and manage multiple tasks - add tasks and assign them to categories
+- Ability to create and manage multiple tasks - add tasks and assign them to categorize
 - Ability to start and stop a timer for a specific task.
 - Ability to record and track time spent on each task.
 - Ability to auto-switch: starting a task when another is in progress automatically stops the previous task.
